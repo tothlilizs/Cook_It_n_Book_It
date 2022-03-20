@@ -15,3 +15,15 @@ That's where **Cook It & Book It** comes in!
 ## Product Backlog
 *subject to change*
  - [ ] As a user I want to be able to save recipes.
+ - [ ] As a user I want to have an overview of my recipes.
+ - [ ] As a user I want to be able to edit my recipes.
+ - [ ] As a user I want to be able to delete my recipes.
+ - [ ] As a user I want to be able to set a theme for the app.
+ - [ ] As a user I want to be able to distinguish between different Time requirements.
+ - [ ] As a user I want to be able to set a timer during my cooking for cooking times.
+ - [ ] As a user I want to have the option to save timers on recipes.
+ - [ ] As a user I want to have the ablility to search between my recipes by name.
+ - [ ] As a user I want to be able to create tags for allergens.
+ - [ ] As a user I want to be able to easily tell apart dietery options(vegan, gluten free, ect).
+ - [ ] As a user I want to be able to add pictures to make the recipes easier to tell apart.
+ - [ ] As a user i want to be able to have different layouts for my overview.
