@@ -26,4 +26,5 @@ That's where **Cook It & Book It** comes in!
  - [ ] As a user, I want to be able to create tags for allergens.
  - [ ] As a user, I want to be able to easily tell apart dietery options(vegan, gluten free, ect).
  - [ ] As a user, I want to be able to add pictures to make the recipes easier to tell apart.
- - [ ] As a user, I want to be able to have different layouts for my overview.
+ - [ ] As a user, I want to be able to have different layouts for my overview. 
+ ##Hand in comments
