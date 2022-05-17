@@ -28,4 +28,4 @@ That's where **Cook It & Book It** comes in!
  - [ ] As a user, I want to be able to add pictures to make the recipes easier to tell apart.
  - [ ] As a user, I want to be able to have different layouts for my overview. 
  ## Hand in comments
-I now in the end realise that i have wanted to add too many features that werent on the backlog whitch made me take longer. I could not finish my application but now i know i should have focused on smaller scale.
+I now in the end realise that i have wanted to add too many features that werent on the backlog whitch made me take longer. I could not finish my application but now i know i should have focused on smaller scale. I also should have used github from the start and not just for hand in.
