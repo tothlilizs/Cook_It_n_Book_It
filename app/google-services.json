@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320048246093",
+    "project_id": "cook-it-f1186",
+    "storage_bucket": "cook-it-f1186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320048246093:android:7762fcf5f4790fa422db04",
+        "android_client_info": {
+          "package_name": "com.example.android_hand_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320048246093-odghkqe759chk8nq3l3jru7kcucjnugr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhY74LsP5-bVsdHlrAaAHf2ffPAr-jhg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320048246093-odghkqe759chk8nq3l3jru7kcucjnugr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
